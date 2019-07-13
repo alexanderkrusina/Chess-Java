@@ -8,3 +8,5 @@ Single client chess implemented in Java
 
 
 ![](chess.gif)
+
+All icons from https://thenounproject.com/
