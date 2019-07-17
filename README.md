@@ -6,6 +6,8 @@ Single client chess implemented in Java
 3. javac Application.java
 3. java application
 
+Alternatively, run the .jar file to start the game.
+
 
 ![](chess.gif)
 

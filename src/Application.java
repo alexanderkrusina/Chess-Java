@@ -5,5 +5,3 @@ public class Application {
 		Controller controller = new Controller(view, model);
 	}
 }
-
-// To do: change pawn to another piece if it gets to the end
