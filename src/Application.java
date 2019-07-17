@@ -5,3 +5,4 @@ public class Application {
 		Controller controller = new Controller(view, model);
 	}
 }
+
